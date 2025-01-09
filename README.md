@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[![RabiyaF's GitHub stats](https://github-readme-stats.vercel.app/api?username=RabiyaF)](https://github.com/RabiyaF/github-readme-stats)
+
+
 <!--
 **RabiyaF/RabiyaF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
