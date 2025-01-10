@@ -11,7 +11,8 @@
 ```
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=RabiyaF&hide=stars&title_color=1C36C7&hide_title=True&include_all_commits=True&icon_color=FF969D&rank_icon=github&show_icons=True&show=reviews,prs_merged,prs_merged_percentage&count_private=true)](https://github.com/RabiyaF/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=RabiyaF&hide=stars&title_color=1C36C7&hide_title=True&include_all_commits=True&icon_color=FF969D&hide_rank=True&show_icons=True&show=reviews,prs_merged,prs_merged_percentage&count_private=true)](https://github.com/RabiyaF/github-readme-stats) <img src="https://github.com/user-attachments/assets/c4fbfddb-c05c-4046-ad05-2474568ed700" alt="rse-dark" height="215">
+
 
 
 <!--
