@@ -1,5 +1,5 @@
 
-[![RabiyaF's GitHub stats](https://github-readme-stats.vercel.app/api?username=RabiyaF&hide=stars&theme=buefy&rank_icon=github&show_icons=True&show=reviews,prs_merged,prs_merged_percentage)](https://github.com/RabiyaF/github-readme-stats)
+[![RabiyaF's GitHub stats](https://github-readme-stats.vercel.app/api?username=RabiyaF&hide=stars&theme=buefy&rank_icon=github&show_icons=True&show=reviews,prs_merged,prs_merged_percentage&count_private=true)](https://github.com/RabiyaF/github-readme-stats)
 
 
 <!--
