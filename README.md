@@ -1,7 +1,7 @@
-<img src="https://github.com/user-attachments/assets/b5ad42d0-2678-4006-93c6-227f44ec8757" width="553" height="245">
-<img src="https://github.com/user-attachments/assets/c1852bdc-5e1a-40c0-b89c-c1b2bc2e4114" height="245">
+<img src="images/header.png" width="553" height="245">
+<img src="images/filler-logo.png" height="245">
 
-<img src="https://github-readme-stats-rho-five-43.vercel.app/api?username=RabiyaF&show_icons=true&icon_color=FF969D&hide=stars&include_all_commits=True&show=reviews,prs_merged,prs_merged_percentage&count_private=true&hide_rank=True&custom_title=Open-source-contributions&title_color=818589" > <img src="https://github.com/user-attachments/assets/c4fbfddb-c05c-4046-ad05-2474568ed700" height="245"> <img src="https://github.com/user-attachments/assets/cb38bddc-a22a-4407-b413-eb6f5690368b" height="245">
+<img src="https://github-readme-stats-rho-five-43.vercel.app/api?username=RabiyaF&show_icons=true&icon_color=FF969D&hide=stars&include_all_commits=True&show=reviews,prs_merged,prs_merged_percentage&count_private=true&hide_rank=True&custom_title=Open-source-contributions&title_color=818589" > <img src="images/rse-logo-main.png" height="245"> <img src="images/scisoft-logo.png" height="245">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RabiyaF&radius=5&theme=react&line=0087FF&point=0087FF&area=true" height="300" width="804" >
 [![GitHub Streak](https://github-readme-streak-stats-sandy-three.vercel.app?user=RabiyaF&theme=react&border_radius=5&card_width=804&ring=DC8187&fire=FF969D&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=0087FF&sideLabels=0087FF)](https://git.io/streak-stats)
 
