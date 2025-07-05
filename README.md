@@ -13,10 +13,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RabiyaF&radius=5&theme=react&line=0087FF&point=0087FF&area=true" style="width:804px; height:300px;" >
 </div>
 
-<div style="display: inline-block;">
-  [![GitHub Streak](https://github-readme-streak-stats-sandy-three.vercel.app?user=RabiyaF&theme=react&border_radius=5&card_width=804&ring=DC8187&fire=FF969D&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=0087FF&sideLabels=0087FF)](https://git.io/streak-stats)
-</div>
-
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats-sandy-three.vercel.app?user=RabiyaF&theme=react&border_radius=5&card_width=804&ring=DC8187&fire=FF969D&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=0087FF&sideLabels=0087FF" style="width:804px; border-radius:5px;">
+</a>
 
 <!--
 **RabiyaF/RabiyaF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
