@@ -1,12 +1,11 @@
 <div style="display: inline-block;">
-  <img src="images/header.png" style="width:553px; height:245px;">
-  <img src="images/filler-logo.png" style="height:245px;">
-</div>
-
-<div style="display: inline-block;">
   <img src="https://github-readme-stats-rho-five-43.vercel.app/api?username=RabiyaF&show_icons=true&icon_color=FF969D&hide=stars&include_all_commits=True&show=reviews,prs_merged,prs_merged_percentage&count_private=true&hide_rank=True&custom_title=Open-source-contributions&title_color=818589" >
   <img src="images/rse-logo-main.png" style="height:245px;">
   <img src="images/scisoft-logo.png" style="height:245px;">
+</div>
+
+<div style="display: inline-block;">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/RabiyaF/RabiyaF/output/ocean.gif" style="width:804px;"/>
 </div>
 
 <!--
