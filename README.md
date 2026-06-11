@@ -4,14 +4,6 @@
 </div>
 -->
 
-<!--
-<div style="display: inline-block;">
-  <img src="images/rse-logo-main.png" style="height:270px;">
-  <img src="images/mantid-logo.png" style="height:270px;">
-  <img src="images/scisoft-logo.png" style="height:270px;">
-</div>
--->
-
 <div style="display: inline-block;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RabiyaF&radius=5&theme=react&line=0087FF&point=0087FF&area=true" style="width:804px; height:300px;" >
 </div>
